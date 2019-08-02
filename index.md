@@ -101,7 +101,7 @@ can use https://itouchmap.com/latlong.html to find the lat/long of an
 address.
 {% endcomment %}
 {% if page.latlng %}
-<p id="where">
+<p id="SANBI Training Room, Level 5, Life Sciences Building">
   <strong>Where:</strong>
   {{page.address}}.
   Get directions with
