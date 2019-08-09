@@ -151,7 +151,7 @@ special instructions.
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody.
-  The workshop organizers have checked that:
+  The workshop organisers have checked that:
 </p>
 <ul>
   <li>The room is wheelchair / scooter accessible.</li>
@@ -160,7 +160,7 @@ special instructions.
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
+  organisers in advance.  If we can help making learning easier for
   you (e.g. sign-language interpreters, lactation facilities) please
   get in touch (using contact details below) and we will
   attempt to provide them.
@@ -187,7 +187,7 @@ Modify the block below if there are any barriers to accessibility or
 special instructions.
 {% endcomment %}
 <p id="accessibility">
-  <strong>Sponsors and Organisers:</strong> The workshop is organised by The Unniversity of the Western Capes's eResearch Office within  DVC Research and Innovation Office.
+  <strong>Sponsors and Organisers:</strong> The workshop is organised by The University of the Western Cape's eResearch Office within  DVC Research and Innovation Office.
 </p>
 
 {% comment %}
