@@ -167,6 +167,31 @@ special instructions.
 </p>
 
 {% comment %}
+
+REGISTRATION
+
+Modify the block below if there are any barriers to accessibility or
+special instructions.
+{% endcomment %}
+<p id="accessibility">
+  <strong>Registration:</strong> 	Please complete the registration form at <a href="https://forms.gle/ytMzibWZQKXN8KTb7"> . Limited space is available. Places will be allocated on a first come, first served principle.
+  
+</p>
+
+{% comment %}
+
+
+SPONSORS AND ORGANISERS
+
+Modify the block below if there are any barriers to accessibility or
+special instructions.
+{% endcomment %}
+<p id="accessibility">
+  <strong>Sponsors and Organisers:</strong> The workshop is organised by The Unniversity of the Western Capes's eResearch Office within  DVC Research and Innovation Office.
+</p>
+
+{% comment %}
+
 CONTACT EMAIL ADDRESS
 
 Display the contact email address set in the configuration file.
