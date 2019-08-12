@@ -187,7 +187,7 @@ Modify the block below if there are any barriers to accessibility or
 special instructions.
 {% endcomment %}
 <p id="accessibility">
-  <strong>Sponsors and Organisers:</strong> The workshop is organised by The University of the Western Cape's eResearch Office within  DVC Research and Innovation Office.
+  <strong>Sponsors and Organisers:</strong> The workshop is organised by the University of the Western Cape's eResearch Office and Library Services within the DVC Research and Innovation Office.
 </p>
 
 {% comment %}
